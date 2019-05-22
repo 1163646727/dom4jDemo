@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<rows>
+  <!--dhtmls格式xml-->
+  <row id="0">
+    <cell>一班</cell>
+    <cell2>张三</cell2>
+    <cell>男</cell>
+  </row>
+  <row id="1">
+    <cell>2班</cell>
+    <cell>呵呵</cell>
+    <cell>女</cell>
+  </row>
+  <row id="2">
+    <cell>3班</cell>
+    <cell>嘿嘿</cell>
+    <cell>男</cell>
+  </row>
+  <row id="3">
+    <cell>3班</cell>
+    <cell>caca</cell>
+    <cell>男</cell>
+  </row>
+  <row id="4">
+    <cell>4班</cell>
+    <cell>嘻嘻</cell>
+    <cell>女</cell>
+  </row>
+</rows>
